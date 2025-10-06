@@ -563,8 +563,8 @@
                                         "example": "Alta"
                                     },
                                     "progress": {
-                                        "type": "string",
-                                        "example": "Pendiente"
+                                        "type": "integer",
+                                        "example": "10"
                                     },
                                     "card_id": {
                                         "type": "integer",

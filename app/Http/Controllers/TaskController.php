@@ -151,7 +151,7 @@ class TaskController extends Controller
      * @OA\Property(property="allocator", type="string", example="Jane Doe"),
      * @OA\Property(property="employee", type="string", example="John Smith", nullable=true),
      * @OA\Property(property="priority", type="string", enum={"Alta", "Media", "Baja"}, example="Alta"),
-     * @OA\Property(property="progress", type="string", example="Pendiente"),
+     * @OA\Property(property="progress", type="integer", example="10"),
      * @OA\Property(property="card_id", type="integer", example="5")
      * )
      * ),
