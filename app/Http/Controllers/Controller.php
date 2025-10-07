@@ -21,7 +21,7 @@ namespace App\Http\Controllers;
  * )
  * ),
  * @OA\Server(
- * url="http://127.0.0.1:8000",
+ * url="https://kanbanapibackend-production.up.railway.app",
  * description="Servidor de desarrollo local"
  * ),
  * @OA\Tag(
